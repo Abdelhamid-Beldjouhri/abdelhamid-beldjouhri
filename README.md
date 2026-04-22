@@ -39,8 +39,8 @@ goal: Work in Cybersecurity internationally
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelhamid-beljouhri&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelhamid-beldjouhri&theme=dark" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ goal: Work in Cybersecurity internationally
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelhamid-beldjouhri&theme=react-dark"/>
 </p>
 
 ---
@@ -123,8 +123,8 @@ The company has basic security controls but critical gaps increase cyber risk. I
 
 ## 📫 Contact Me
 
-* 💼 LinkedIn: (ضع الرابط)
-* 📧 Email: (ضع ايميلك)
+* 💼 LinkedIn: (https://www.linkedin.com/in/abdelhamid-beldjouhri-936b5919b/)
+* 📧 Email: (abdelhamidbeldjouhri@gmail.com)
 
 ---
 
